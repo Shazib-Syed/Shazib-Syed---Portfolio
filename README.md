@@ -39,8 +39,8 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
-    cd yourproject
+    git clone git@github.com:Shazib-Syed/Shazib-Syed---Portfolio.git
+    cd to project
     ```
 
 2. **Install Node.js Dependencies**:
